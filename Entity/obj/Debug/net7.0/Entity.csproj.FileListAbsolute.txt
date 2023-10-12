@@ -1,0 +1,24 @@
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\Lucas\Desktop\Challenge\New folder\RecommendationsAPI\Entity\obj\Debug\net7.0\ref\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\Lucas\Desktop\Challenge\recommendations-api\Entity\obj\Debug\net7.0\ref\Entity.dll
